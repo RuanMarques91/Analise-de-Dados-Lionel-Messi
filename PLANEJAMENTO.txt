@@ -1,0 +1,58 @@
+DASHBOARD MESSI
+
+PERGUNTAS A SEREM RESPONDIDAS
+- Gols por cada time (Barcelona/Argentina/PSG)
+- Gols por temporada
+- Time que mais sofreu gols (TOP 10)
+- Goleiro que mais sofreu gols (TOP 5)
+- Gols por competição
+- Time que mais ganhou do Messi (TOP 5)
+- Temporada com mais Gols
+- Alguma coisa de Assistencias
+- Quantidade de HatTricks
+- Gols de Penalti
+- Gols de Falta
+- Número de Vitórias
+- Número de Empates
+- Número de Derrotas
+- Número Total de Jogos
+
+FILTROS
+- Time
+- Ano
+- Período (calendário inicial e final)
+- Torneio
+- Adversário
+
+GRÁFICOS
+
+CARDS
+- Gols
+- Assistencias
+- Adversários
+- Gols Pé Direito
+- Gols Pé Esquerdo
+- Média de Gols
+
+
+OBS: Fazer mudança de gráficos de acordo com as perguntas
+
+
+TELA 01 - UMA APRESENTAÇÃO COM UM BACKGROUND E UMA TELA MANEIRA E UMA FRASE DE IMPACTO
+TELA 02 - TELA COM LINK PARA AS PRÓXIMAS TELAS 
+TELA 03 - TELA COM AS PRINCIPAIS CURIOSIDADES E RECORDES DA CARREIRA
+		Mais GOls por um time (Mais que pelé)
+		91 gols em uma temporada 2012
+		Cerveja Messi
+		
+
+TELA 04 - DASHBOARD PRINCIPAL COM LINK PARA AS PERGUNTAS E PARA A TEMPORADA 2012
+TELA 04 - DASHBOARD COM AS PERGUNTAS A SEREM RESPONDIDAS E UM GRÁFICO PRINCIPAL QUE VAI SUBSTITUINDO DE ACORDO COM A PERGUNTA
+TELA 05 - REFERÊNCIAS / TEMPO PARA MONTAR O PROJETO
+
+
+https://messi.com/en/estadisticas-barcelona/
+http://messi.starplayerstats.com/en
+https://docs.google.com/spreadsheets/d/13Z81oKYbcyXSiETIEd_HT-L7_pzJfL7YjKC_ISyrhD8/edit#gid=0
+https://community.powerbi.com/t5/Data-Stories-Gallery/Incredible-Lionel-Messi/td-p/82225
+
